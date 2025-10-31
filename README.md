@@ -57,4 +57,4 @@ Ver archivo: `docs/roadmap.md` o el archivo original `roadmap_sql_api_lowcode_py
 
 ## ✍️ Autor
 
-[Alex Zajaron](https://github.com/eugenioklimenok) | Proyecto formativo y portafolio personal.
+[Alex Zajarov](https://github.com/eugenioklimenok) | Proyecto formativo y portafolio personal.
